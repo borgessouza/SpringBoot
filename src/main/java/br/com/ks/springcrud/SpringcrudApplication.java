@@ -1,12 +1,12 @@
-package br.com.modelo.trainning;
+package br.com.ks.springcrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TrainningApplication {
+public class SpringcrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TrainningApplication.class, args);
+		SpringApplication.run(SpringcrudApplication.class, args);
 	}
 }
